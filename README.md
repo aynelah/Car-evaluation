@@ -1,6 +1,6 @@
-# Cars-satftey
+# Car Evaluation Analysis Using Decision Tree Classifier
 
-#Predict the safety of the car using decision tree 
+
 
 #grpup : only 1 memeber 
 
